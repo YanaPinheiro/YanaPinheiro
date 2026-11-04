@@ -44,5 +44,3 @@ I am currently part of the graduate program at **CPGF-UFPA** and work as a resea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanamachado)
 [![Lattes Curriculum](https://img.shields.io/badge/Lattes_CV-004080?style=for-the-badge&logo=google-academic&logoColor=white)](https://lattes.cnpq.br/2108765870189037)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=black)](https://orcid.org/0009-0007-1261-413X)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yana_pinheiro)
-
